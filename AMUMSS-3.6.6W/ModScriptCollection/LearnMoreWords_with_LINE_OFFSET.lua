@@ -41,7 +41,7 @@ TEXT_TO_ADD =
               </Property>
               <Property name="UseCategory" value="False" />
               <Property name="Category" value="GcWordCategoryTableEnum.xml">
-                <Property name="WordCategory" value="MISC" />
+                <Property name="gcwordcategorytableEnum" value="MISC" />
               </Property>
               <Property name="AmountMin" value="1" />
               <Property name="AmountMax" value="1" />
@@ -206,4 +206,3 @@ METADATA\REALITY\TABLES\REWARDTABLE.MBIN
 }
 --NOTE: ANYTHING NOT in table NMS_MOD_DEFINITION_CONTAINER IS IGNORED AFTER THE SCRIPT IS LOADED
 --IT IS BETTER TO ADD THINGS AT THE TOP IF YOU NEED TO
---DON'T ADD ANYTHING PASS THIS POINT HERE
