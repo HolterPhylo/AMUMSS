@@ -1,4 +1,0 @@
-When present, the file 'OPT_SKIP_USER_PAUSE.txt' instructs AMUMSS to skip one or more pause commands
-before processing begins (to allow users to read some information).
-
-To disable, just rename the file (I use 'x' in front of the name)
