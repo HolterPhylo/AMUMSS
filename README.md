@@ -8,7 +8,9 @@ IMPORTANT NOTE:
 
 For now, this is a repository of AMUMSS versions going forward.
 
-SEE the RELEASES for the latest version (currently 3.9.5.98W)
+SEE the RELEASES for version 3.9.5.98W
+
+NOTE: 3.9.5.98W will offer to update to 3.9.6+ which is the latest version
 
 DOWNLOAD and INSTALLATION:
 
