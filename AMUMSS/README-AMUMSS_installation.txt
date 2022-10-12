@@ -7,10 +7,10 @@ THREE CASES:
     
     C) you have AMUMSS 3.9.5W or later ==> execute BUILDMOD.bat multiple times to update
        until it says there are no updates (nothing more to do)
-	   Your version of AMUMSS should now be 3.9.6.0W
+	   Your version of AMUMSS should now be 4.0.0.0W
+    
+    D) Or you could download Version 4 of AMUMSS:  ==> DOWNLOAD COMPLETE VERSION (see below)
 
-	D) If Version 4 of AMUMSS is available:  ==> DOWNLOAD COMPLETE VERSION (see below)
-	
 > DOWNLOAD COMPLETE VERSION
     * COMPLETE VERSION available as a .7z release at:
         https://github.com/HolterPhylo/AMUMSS/releases (you need the 'Latest' release: AMUMSS.7z, +/- 19MB)
@@ -23,10 +23,10 @@ THREE CASES:
 			+ Also a reboot may be required as some anti-virus do not correctly register the exception when it is created.
 
 > INSTALLATION
-	* Complete the step in the DOWNLOAD COMPLETE VERSION section above before continuing
-	
+    * Complete the step in the DOWNLOAD COMPLETE VERSION section above before continuing
+    
     * No accented characters in the path of AMUMSS folder
-    * Always de-compress in a new folder on any drive like X:\AMUMSS (OR in the previous folder)
+    * Always de-compress/un-zip in a new folder on any drive like X:\AMUMSS (OR in the previous folder)
       xxxxx NEVER in any system folder (Note: the Desktop, Downloads, Documents are system folders) xxxxx
 
         * If de-compressed/extracted in the previous folder, AMUMSS will preserve everything in user folders
@@ -49,8 +49,8 @@ THREE CASES:
 
 
 > QUESTIONS
-        * Questions are better asked in NMS Discord: "No Man's Sky Modding" channel, "mod-amumss-lua" room:
+        * Questions are better asked in NMS Discord: "No Man's Sky Modding" channel, "amumss-lua" room:
 
                     https://discord.gg/22ZAU9H
 
-        We have channel #mod-amumss-lua dedicated to AMUMSS/NMSPE with helpful modders and Wbertro#8596 (aka TheBossBoy)
+        We have channel #amumss-lua dedicated to AMUMSS/NMSPE with helpful modders and Wbertro#8596 (aka TheBossBoy)
