@@ -5,11 +5,7 @@ THREE CASES:
     
     B) you have a version of AMUMSS PRIOR or EQUAL to 3.9.4W ==> DOWNLOAD COMPLETE VERSION (see below)
     
-    C) you have AMUMSS 3.9.5W or later ==> execute BUILDMOD.bat multiple times to update
-       until it says there are no updates (nothing more to do)
-	   Your version of AMUMSS should now be 4.0.0.0W
-    
-    D) Or you could download Version 4 of AMUMSS:  ==> DOWNLOAD COMPLETE VERSION (see below)
+    C) Download Version 4 of AMUMSS:  ==> DOWNLOAD COMPLETE VERSION (see below)
 
 > DOWNLOAD COMPLETE VERSION
     * COMPLETE VERSION available as a .7z release at:
@@ -33,7 +29,8 @@ THREE CASES:
           except changes made to AMUMSS files in AMUMSS main, ModScriptCollection and MODBUILDER folders
 
         * If de-compressed/extracted in a new folder, you can copy/paste these folders from the previous version of AMUMSS
-          if you would like to preserve previous work...
+		  if you would like to preserve previous work and information...
+				+ 'libMBIN_Content'
                 + 'ModScript'
                 + 'ModExtraFilesToInclude'
                 + 'Builds'
