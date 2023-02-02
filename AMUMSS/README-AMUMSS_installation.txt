@@ -12,11 +12,11 @@ THREE CASES:
         https://github.com/HolterPhylo/AMUMSS/releases (you need the 'Latest' release: AMUMSS.7z, +/- 19MB)
     * 'Unblock' the downloaded file in 'Properties' in the windows explorer
     
-	* IMPORTANT Note:
-			+ Your anti-virus may detect some component of AMUMSS and block/quarantine it.
-			  Be assure it is not a virus but its behavior may be interpreted as such by some anti-virus.
-			+ Please make sure to create an 'exception' in your anti-virus BEFORE executing anything in AMUMSS main folder.
-			+ Also a reboot may be required as some anti-virus do not correctly register the exception when it is created.
+    * IMPORTANT Note:
+            + Your anti-virus may detect some component of AMUMSS and block/quarantine it.
+              Be assure it is not a virus but its behavior may be interpreted as such by some anti-virus.
+            + Please make sure to create an 'exception' in your anti-virus BEFORE executing anything in AMUMSS main folder.
+            + Also a reboot may be required as some anti-virus do not correctly register the exception when it is created.
 
 > INSTALLATION
     * Complete the step in the DOWNLOAD COMPLETE VERSION section above before continuing
@@ -29,25 +29,25 @@ THREE CASES:
           except changes made to AMUMSS files in AMUMSS main, ModScriptCollection and MODBUILDER folders
 
         * If de-compressed/extracted in a new folder, you can copy/paste these folders from the previous version of AMUMSS
-		  if you would like to preserve previous work and information...
-				+ 'libMBIN_Content'
+          if you would like to preserve previous work and information...
+                + 'Builds'
                 + 'ModScript'
                 + 'ModExtraFilesToInclude'
-                + 'Builds'
+                + 'NMSPE_Output'
                 + 'SavedSections'
                 + 'UNPACKED_DECOMPILED_PAKs'
                 + any other files in AMUMSS main not updated by the unzip file
 
         * You can now delete the compressed file from AMUMSS main folder
 
-	* EXECUTE BUILDMOD.bat ONCE or more until no more updates are offered
-			+ Please execute BUILDMOD.bat once to re-create all user folders (when they do not exist)
-			+ and download\update MBINCompiler.exe and libMBIN.dll
+    * EXECUTE BUILDMOD.bat ONCE or more until no more updates are offered
+            + Please execute BUILDMOD.bat once to re-create all user folders (when they do not exist)
+            + and download\update MBINCompiler.exe and libMBIN.dll
 
 
 > QUESTIONS
         * Questions are better asked in NMS Discord: "No Man's Sky Modding" channel, "amumss-lua" room:
 
-                    https://discord.gg/22ZAU9H
+                    https://discord.gg/HFjnmnwe67
 
         We have channel #amumss-lua dedicated to AMUMSS/NMSPE with helpful modders and Wbertro#8596 (aka TheBossBoy)
