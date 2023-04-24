@@ -9,9 +9,10 @@ THREE CASES:
 
 > DOWNLOAD COMPLETE VERSION
     * COMPLETE VERSION available as a .7z release at:
-        https://github.com/HolterPhylo/AMUMSS/releases (you need the 'Latest' release: AMUMSS.7z, +/- 19MB)
+        https://github.com/HolterPhylo/AMUMSS/releases (you need the 'Latest' release: AMUMSS.7z, +/- 145MB)
     * 'Unblock' the downloaded file in 'Properties' in the windows explorer
-    
+    * you can unzip it with 7zip at: https://www.7-zip.org/download.html
+	
     * IMPORTANT Note:
             + Your anti-virus may detect some component of AMUMSS and block/quarantine it.
               Be assure it is not a virus but its behavior may be interpreted as such by some anti-virus.
@@ -38,11 +39,11 @@ THREE CASES:
                 + 'UNPACKED_DECOMPILED_PAKs'
                 + any other files in AMUMSS main not updated by the unzip file
 
-        * You can now delete the compressed file from AMUMSS main folder
+        * You can delete the compressed file from AMUMSS main folder when done
 
     * EXECUTE BUILDMOD.bat ONCE or more until no more updates are offered
             + Please execute BUILDMOD.bat once to re-create all user folders (when they do not exist)
-            + and download\update MBINCompiler.exe and libMBIN.dll
+            + it will auto-download\update MBINCompiler.exe and libMBIN.dll
 
 
 > QUESTIONS
