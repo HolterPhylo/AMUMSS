@@ -18,17 +18,18 @@ DOWNLOAD and INSTALLATION:
 
 > DOWNLOAD COMPLETE VERSION
     * COMPLETE VERSION available as a .7z release at:
-        https://github.com/HolterPhylo/AMUMSS/releases (you need the 'Latest' release: AMUMSS.7z, +/- 19MB)
+        https://github.com/HolterPhylo/AMUMSS/releases (you need the 'Latest' release: AMUMSS.7z, +/- 145MB)
     * 'Unblock' the downloaded file in 'Properties' in the windows explorer
+    * you can unzip it with 7zip at: https://www.7-zip.org/download.html
     
-	* IMPORTANT Note:
-			+ Your anti-virus may detect some component of AMUMSS and block/quarantine it.
-			  Be assure it is not a virus but its behavior may be interpreted as such by some anti-virus.
-			+ Please make sure to create an 'exception' in your anti-virus BEFORE executing anything in AMUMSS main folder.
-			+ Also a reboot may be required as some anti-virus do not correctly register the exception when it is created.
+    * IMPORTANT Note:
+		+ Your anti-virus may detect some component of AMUMSS and block/quarantine it.
+		  Be assure it is not a virus but its behavior may be interpreted as such by some anti-virus.
+		+ Please make sure to create an 'exception' in your anti-virus BEFORE executing anything in AMUMSS main folder.
+		+ Also a reboot may be required as some anti-virus do not correctly register the exception when it is created.
 
 > INSTALLATION
-	* Complete the step in the DOWNLOAD COMPLETE VERSION section above before continuing
+    * Complete the step in the DOWNLOAD COMPLETE VERSION section above before continuing
 	
     * No accented characters in the path of AMUMSS folder
     * Always de-compress/un-zip in a new folder on any drive like X:\AMUMSS (OR in the previous folder)
