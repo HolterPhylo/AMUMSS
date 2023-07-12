@@ -6,9 +6,15 @@ In other words: a tool that uses .lua scripts to create .pak mod files
   >>> .pak files go into NMS PCBANKS\MODS (a folder you create to use mods with NMS)
 
 IMPORTANT NOTE:
-  AMUMSS uses MBINCompiler.exe AND MBINCompiler.exe REQUIRES '.NET 5 x64 Desktop Runtime' latest version to run:
+  AMUMSS uses MBINCompiler.exe
+  
+  STARTING July 17th, 2023: NEWER MBINCompiler.exe versions REQUIRE '.NET 6 x64 Desktop Runtime' latest version to run:
+  It can be found at https://dotnet.microsoft.com/download/dotnet/6.0/runtime
+  (.NET 7/8/... are NOT backward compatible with .NET 6) 
+  
+  OLDER MBINCompiler.exe versions still REQUIRE '.NET 5 x64 Desktop Runtime' latest version to run:
   It can be found at https://dotnet.microsoft.com/download/dotnet/5.0/runtime
-  (even if .NET 5 is technically at 'end of life', that is what is required for now and .NET 6/7/8/... are NOT backward compatible with .NET 5) 
+  (.NET 6/7/8/... are NOT backward compatible with .NET 5) 
 
 For now, this is a repository of AMUMSS versions going forward.
 
