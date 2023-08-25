@@ -19,9 +19,9 @@ IMPORTANT NOTES:
 For now, this is a repository of AMUMSS versions going forward.
 
 SEE the RELEASES for latest version
-    * This version will auto-update with the execution of BUILDMOD.bat.
-    * It may take one or many re-start of BUILMOD.bat to bring it to the latest version.
-      No worry, it is fast (only depends on your internet speed)
+> This version will auto-update with the execution of BUILDMOD.bat.
+> It may take one or many re-start of BUILMOD.bat to bring it to the latest version.
+  No worry, it is fast (only depends on your internet speed)
 
 DOWNLOAD and INSTALLATION:
 
