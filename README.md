@@ -5,7 +5,7 @@ In other words: a tool that uses .lua scripts to create .pak mod files
   >>> .lua scripts go into the ModScript folder (created after you run BULDMOD.bat)
   >>> .pak files go into NMS PCBANKS\MODS (a folder you create to use mods with NMS)
 
-IMPORTANT NOTE:
+IMPORTANT NOTES:
   AMUMSS uses MBINCompiler.exe
   
   STARTING July 17th, 2023: NEWER MBINCompiler.exe versions REQUIRE '.NET 6 x64 Desktop Runtime' latest version to run:
@@ -19,6 +19,9 @@ IMPORTANT NOTE:
 For now, this is a repository of AMUMSS versions going forward.
 
 SEE the RELEASES for latest version
+    * This version will auto-update with the execution of BUILDMOD.bat.
+    * It may take one or many re-start of BUILMOD.bat to bring it to the latest version.
+      No worry, it is fast (only depends on your internet speed)
 
 DOWNLOAD and INSTALLATION:
 
