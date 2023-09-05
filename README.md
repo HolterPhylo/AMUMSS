@@ -5,6 +5,9 @@ In other words: a tool that uses .lua scripts to create .pak mod files
   >>> .lua scripts go into the ModScript folder (created after you run BULDMOD.bat)
   >>> .pak files go into NMS PCBANKS\MODS (a folder you create to use mods with NMS)
 
+FOR HELP WITH INSTALLATION:
+  Refer to [https://discord.gg/HFjnmnwe67](https://www.nexusmods.com/nomanssky/mods/2626)
+  
 IMPORTANT NOTES:
   AMUMSS uses MBINCompiler.exe
   
