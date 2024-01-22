@@ -31,11 +31,11 @@ THREE CASES:
 
         * If de-compressed/extracted in a new folder, you can copy/paste these folders from the previous version of AMUMSS
           if you would like to preserve previous work and information...
-                + 'Builds'
+                + 'CreatedModPAKs\BuildHistory'
                 + 'ModScript'
-                + 'ModExtraFilesToInclude'
-                + 'NMSPE_Output'
-                + 'SavedSections'
+                + 'ModScript\GlobalMEFTI'
+                + 'TOOLS\NMSPE_Output'
+                + 'TOOLS\SavedSections'
                 + 'UNPACKED_DECOMPILED_PAKs'
                 + any other files in AMUMSS main not updated by the unzip file
 
