@@ -5,7 +5,7 @@ THREE CASES:
     
     B) you have a version of AMUMSS PRIOR or EQUAL to 3.9.4W ==> DOWNLOAD COMPLETE VERSION (see below)
     
-    C) Download Version 4 of AMUMSS:  ==> DOWNLOAD COMPLETE VERSION (see below)
+    C) Download Latest Version of AMUMSS:  ==> DOWNLOAD COMPLETE VERSION (see below)
 
 > DOWNLOAD COMPLETE VERSION
     * COMPLETE VERSION available as a .7z release at:
@@ -27,7 +27,7 @@ THREE CASES:
       xxxxx NEVER in any system folder (Note: the Desktop, Downloads, Documents are system folders) xxxxx
 
         * If de-compressed/extracted in the previous folder, AMUMSS will preserve everything in user folders
-          except changes made to AMUMSS files in AMUMSS main, ModScriptCollection and MODBUILDER folders
+          except changes made to AMUMSS files in AMUMSS main, ModLuaLearningCollection and MODBUILDER folders
 
         * If de-compressed/extracted in a new folder, you can copy/paste these folders from the previous version of AMUMSS
           if you would like to preserve previous work and information...
