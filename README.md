@@ -27,7 +27,8 @@ SEE the RELEASES for latest version
   No worry, it is fast (only depends on your internet speed)
 
 DOWNLOAD and INSTALLATION:
-
+	*** Follow installation instructions found in file at https://www.nexusmods.com/nomanssky/mods/2626
+	
 > DOWNLOAD COMPLETE VERSION
     * COMPLETE VERSION available as a .7z release at:
         https://github.com/HolterPhylo/AMUMSS/releases (you need the 'Latest' release: AMUMSS.7z, +/- 145MB)
