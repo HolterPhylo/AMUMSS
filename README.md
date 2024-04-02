@@ -12,11 +12,11 @@ IMPORTANT NOTES:
   AMUMSS is always up-to-date but it needs MBINCompiler.exe to be updated (done automatically when avaiable)
   
   STARTING July 17th, 2023: NEWER MBINCompiler.exe versions REQUIRE '.NET 6 x64 Desktop Runtime' latest version to run:
-  It can be found at https://dotnet.microsoft.com/download/dotnet/6.0/runtime
+  It can be found at https://dotnet.microsoft.com/download/dotnet/6.0/runtime             
   (.NET 7/8/... are NOT backward compatible with .NET 6) 
   
   OLDER MBINCompiler.exe versions still REQUIRE '.NET 5 x64 Desktop Runtime' latest version to run:
-  It can be found at https://dotnet.microsoft.com/download/dotnet/5.0/runtime
+  It can be found at https://dotnet.microsoft.com/download/dotnet/5.0/runtime                         
   (.NET 6/7/8/... are NOT backward compatible with .NET 5) 
 
 For now, this is a repository of AMUMSS versions going forward.
