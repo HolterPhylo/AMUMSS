@@ -6,10 +6,10 @@ In other words: a tool that uses .lua scripts to create .pak mod files
   >>> .pak files go into NMS PCBANKS\MODS (a folder you create to use mods with NMS)
 
 FOR HELP WITH INSTALLATION:
-  Refer to [https://discord.gg/HFjnmnwe67](https://www.nexusmods.com/nomanssky/mods/2626)
+  Refer to [https://www.nexusmods.com/nomanssky/mods/2626](https://www.nexusmods.com/nomanssky/mods/2626)
   
 IMPORTANT NOTES:
-  AMUMSS uses MBINCompiler.exe
+  AMUMSS is always up-to-date but it needs MBINCompiler.exe to be updated (done automatically when avaiable)
   
   STARTING July 17th, 2023: NEWER MBINCompiler.exe versions REQUIRE '.NET 6 x64 Desktop Runtime' latest version to run:
   It can be found at https://dotnet.microsoft.com/download/dotnet/6.0/runtime
@@ -21,13 +21,13 @@ IMPORTANT NOTES:
 
 For now, this is a repository of AMUMSS versions going forward.
 
-SEE the RELEASES for latest version
+SEE the [RELEASES](https://github.com/HolterPhylo/AMUMSS/releases) for latest version
 > This version will auto-update with the execution of BUILDMOD.bat.
 > It may take one or many re-start of BUILMOD.bat to bring it to the latest version.
   No worry, it is fast (only depends on your internet speed)
 
 DOWNLOAD and INSTALLATION:
-	*** Follow installation instructions found in file at https://www.nexusmods.com/nomanssky/mods/2626
+	*** Follow installation instructions found in file at [https://www.nexusmods.com/nomanssky/mods/2626](https://www.nexusmods.com/nomanssky/mods/2626)
 	
 > DOWNLOAD COMPLETE VERSION
     * COMPLETE VERSION available as a .7z release at:
@@ -42,8 +42,9 @@ DOWNLOAD and INSTALLATION:
 		+ Also a reboot may be required as some anti-virus do not correctly register the exception when it is created.
 
 > INSTALLATION
-    * Complete the step in the DOWNLOAD COMPLETE VERSION section above before continuing
-	
+    * Complete the step in the DOWNLOAD COMPLETE VERSION section above before continuing              
+      *** FOLLOW the instructions at https://www.nexusmods.com/nomanssky/mods/2626 ***
+    
     * No accented characters in the path of AMUMSS folder
     * Always de-compress/un-zip in a new folder on any drive like X:\AMUMSS (OR in the previous folder)
       xxxxx NEVER in any system folder (Note: the Desktop, Downloads, Documents are system folders) xxxxx
@@ -67,12 +68,9 @@ DOWNLOAD and INSTALLATION:
 			+ Please execute BUILDMOD.bat once to re-create all user folders (when they do not exist)
             + it will auto-download\update MBINCompiler.exe and libMBIN.dll
 
-
 > QUESTIONS
         * Questions are better asked in NMS Discord: "No Man's Sky Modding" channel, "amumss-lua" room:
-
-                    [https://discord.gg/HFjnmnwe67](https://discord.gg/HFjnmnwe67)
-
+                    [https://discord.gg/HFjnmnwe67](https://discord.gg/HFjnmnwe67)                                       
         We have channel #amumss-lua dedicated to AMUMSS/NMSPE with helpful modders and Wbertro#8596 (aka TheBossBoy)
 
 Wbertro
