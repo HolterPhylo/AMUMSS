@@ -71,7 +71,7 @@ DOWNLOAD and INSTALLATION:
 > QUESTIONS
         * Questions are better asked in NMS Discord: "No Man's Sky Modding" channel, "amumss-lua" room:
 
-                    https://discord.gg/HFjnmnwe67
+                    [https://discord.gg/HFjnmnwe67](https://discord.gg/HFjnmnwe67)
 
         We have channel #amumss-lua dedicated to AMUMSS/NMSPE with helpful modders and Wbertro#8596 (aka TheBossBoy)
 
