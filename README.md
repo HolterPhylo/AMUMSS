@@ -5,7 +5,12 @@ In other words: a tool that uses .lua scripts to create .pak mod files
   >>> .lua scripts go into the ModScript folder (created after you run BULDMOD.bat)
   >>> .pak files go into NMS PCBANKS\MODS (a folder you create to use mods with NMS)
 
-FOR HELP WITH INSTALLATION:
+> QUESTIONS
+        * Questions are better asked in NMS Discord: "No Man's Sky Modding" channel, "amumss-lua" room:
+                    [https://discord.gg/HFjnmnwe67](https://discord.gg/HFjnmnwe67)                                       
+        We have channel #amumss-lua dedicated to AMUMSS/NMSPE with helpful modders and Wbertro#8596 (aka TheBossBoy)
+
+> FOR HELP WITH INSTALLATION:
   Refer to [https://www.nexusmods.com/nomanssky/mods/2626](https://www.nexusmods.com/nomanssky/mods/2626)
   
 IMPORTANT NOTES:
