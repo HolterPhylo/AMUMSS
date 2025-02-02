@@ -1,9 +1,12 @@
 # AMUMSS
 A tool to mod No Man's Sky (NMS) using lua scripts
 
-In other words: a tool that uses .lua scripts to create .pak mod files
-  >>> .lua scripts go into the ModScript folder (created after you run BULDMOD.bat)
-  >>> .pak files go into NMS PCBANKS\MODS (a folder you create to use mods with NMS)
+In other words: a tool that uses .lua scripts to create mod files
+>  >> .lua scripts go into the ModScript folder (created after you run BULDMOD.bat)
+
+>  >> NMS < v5.5, .pak files go into NMS PCBANKS\MODS (a folder you create to use mods with NMS)
+
+>  >> NMS > v5.5, mod are sub-folders in NMS GAMEDATA\MODS folder
 
 > QUESTIONS
         * Questions are better asked in NMS Discord: "No Man's Sky Modding" channel, "amumss-lua" room:
@@ -14,7 +17,8 @@ In other words: a tool that uses .lua scripts to create .pak mod files
   Refer to [https://www.nexusmods.com/nomanssky/mods/2626](https://www.nexusmods.com/nomanssky/mods/2626)
   
 IMPORTANT NOTES:
-  AMUMSS is always up-to-date but it needs MBINCompiler.exe to be updated (done automatically when avaiable)
+  AMUMSS is always up-to-date (except with a MAJOR update like NMS > v5.5) but it needs MBINCompiler.exe to be updated
+  (it is done automatically when available)
   
   STARTING July 17th, 2023: NEWER MBINCompiler.exe versions REQUIRE '.NET 6 x64 Desktop Runtime' latest version to run:
   It can be found at https://dotnet.microsoft.com/download/dotnet/6.0/runtime             
@@ -26,9 +30,10 @@ IMPORTANT NOTES:
 
 For now, this is a repository of AMUMSS versions going forward.
 
-SEE the [RELEASES](https://github.com/HolterPhylo/AMUMSS/releases) for latest version
-> This version will auto-update with the execution of BUILDMOD.bat.
-> It may take one or many re-start of BUILMOD.bat to bring it to the latest version.
+SEE the [RELEASES](https://github.com/HolterPhylo/AMUMSS/releases) for latest version for NMS > v5.5
+or previous release for NMS < v5.5
+> These version will auto-update with the execution of BUILDMOD.bat.
+> It may take one or many re-start of BUILDMOD.bat to bring it to the latest version.
   No worry, it is fast (only depends on your internet speed)
 
 DOWNLOAD and INSTALLATION:
@@ -39,6 +44,7 @@ DOWNLOAD and INSTALLATION:
         https://github.com/HolterPhylo/AMUMSS/releases (you need the 'Latest' release: AMUMSS.7z, +/- 145MB)
     * 'Unblock' the downloaded file in 'Properties' in the windows explorer
     * you can unzip it with 7zip at: https://www.7-zip.org/download.html
+Unzipping in a folder like C:\AMUMSS is recommended
     
     * IMPORTANT Note:
 		+ Your anti-virus may detect some component of AMUMSS and block/quarantine it.
@@ -61,16 +67,16 @@ DOWNLOAD and INSTALLATION:
           if you would like to preserve previous work and information...
                 + 'Builds'
                 + 'ModScript'
-                + 'ModExtraFilesToInclude'
-                + 'NMSPE_Output'
-                + 'SavedSections'
-                + 'UNPACKED_DECOMPILED_PAKs'
+                + 'GlobalMEFTI'
+                + 'TOOLS\NMSPE_Output'
+                + 'TOOLS\SavedSections'
+                + 'TOOLS\UNPACKED_DECOMPILED_PAKs'
                 + any other files in AMUMSS main not updated by the unzip file
 
-        * You can delete the compressed file from AMUMSS main folder when done
+        * You can delete the compressed file from AMUMSS main folder when done extracting
 
 	* EXECUTE BUILDMOD.bat ONCE or more until no more updates are offered
-			+ Please execute BUILDMOD.bat once to re-create all user folders (when they do not exist)
+			+ Always execute BUILDMOD.bat once to re-create all user folders (when they do not exist)
             + it will auto-download\update MBINCompiler.exe and libMBIN.dll
 
 > QUESTIONS
