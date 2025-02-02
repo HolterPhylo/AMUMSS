@@ -6,7 +6,7 @@ In other words: a tool that uses .lua scripts to create mod files
 
 >  >> NMS < v5.5, .pak files go into NMS PCBANKS\MODS (a folder you create to use mods with NMS)
 
->  >> NMS > v5.5, mod are sub-folders in NMS GAMEDATA\MODS folder
+>  >> NMS >= v5.5, mod are sub-folders in NMS GAMEDATA\MODS folder
 
 > QUESTIONS
         * Questions are better asked in NMS Discord: "No Man's Sky Modding" channel, "amumss-lua" room:
@@ -30,7 +30,7 @@ IMPORTANT NOTES:
 
 For now, this is a repository of AMUMSS versions going forward.
 
-SEE the [RELEASES](https://github.com/HolterPhylo/AMUMSS/releases) for latest version for NMS > v5.5
+SEE the [RELEASES](https://github.com/HolterPhylo/AMUMSS/releases) for latest version for NMS >= v5.5
 or previous release for NMS < v5.5
 > These version will auto-update with the execution of BUILDMOD.bat.
 > It may take one or many re-start of BUILDMOD.bat to bring it to the latest version.
