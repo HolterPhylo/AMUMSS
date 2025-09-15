@@ -1,6 +1,8 @@
 # AMUMSS
 A tool to mod No Man's Sky (NMS) using lua scripts
 
+AMUMSS is NOT a mod manager, nor can it be used as such. It is a script processor.
+
 In other words: a tool that uses .lua scripts to create mod files
 >  >> .lua scripts go into the ModScript folder (created after you run BULDMOD.bat)
 
