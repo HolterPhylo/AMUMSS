@@ -21,7 +21,11 @@ In other words: a tool that uses .lua scripts to create mod files
 IMPORTANT NOTES:
   AMUMSS is always up-to-date (except with a MAJOR update like NMS > v5.5) but it needs MBINCompiler.exe to be updated
   (it is done automatically when available)
-  
+
+  Current MBINCompiler.exe versions REQUIRE '.NET 8 x64 Desktop Runtime' latest version to run:
+  It can be found at https://dotnet.microsoft.com/download/dotnet/8.0/runtime             
+  (.NET 6/7/9/10... are NOT backward compatible with .NET 8)
+
   STARTING July 17th, 2023: NEWER MBINCompiler.exe versions REQUIRE '.NET 6 x64 Desktop Runtime' latest version to run:
   It can be found at https://dotnet.microsoft.com/download/dotnet/6.0/runtime             
   (.NET 7/8/... are NOT backward compatible with .NET 6) 
